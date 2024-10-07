@@ -1,2 +1,2 @@
-# Caixa-Eletr-nico
+# Caixa-Eletronico
 Simulador de Caixa Eletrônico em C#.
